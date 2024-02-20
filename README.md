@@ -1,5 +1,9 @@
 # EMA Backend API
 
+REST WEB API
+Entity Framework
+.NET
+
 Run with "dotnet run"
 
 # Entity :
